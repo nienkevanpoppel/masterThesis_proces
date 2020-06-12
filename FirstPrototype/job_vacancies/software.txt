@@ -1,0 +1,19 @@
+Duties: Analyze, design, program, debug, and modify software enhancements and/or new products used in local, networked, or Internet-related computer programs. Develop code for commercial or end-user applications, such as materials management, financial management, HRIS, or desktop applications products. Use current programming language and technologies, write code, complete programming, and perform testing and debugging of applications. Complete documentation and procedures for installation and maintenance. Interact with users to define system requirements and necessary modifications. Participate in analysis, design, implementation, and testing of software sub-systems. Manage deliverables in identified schedules. Document designs and find, troubleshoot, and correct defects in program code. Support application use and deployment. Design algorithms, program structures, and components. Analyze business requirements for use in design and programming.
+
+Requirements: Requires a Bachelor’s degree in Computer Science, Information Systems, or a directly related field plus five (5) years of experience as a software engineer and/or developer.
+
+Must have one (1) year of front-end developer experience utilizing the following:
+JavaScript
+At least three of the following front-end technologies: AngularJS, HTML, CSS, ExtJS, SASS, LESS, or jQuery
+HighCharts or D3JS
+REST APIs
+MySQL
+Mobile app development, including Android or iOS
+Will accept a Master’s degree + two (2) years of described experience in lieu of Bachelor’s + five (5) years of experience.
+
+Telecommuting: Position is fixed location based in San Jose, CA office; However, telecommuting is occasionally allowed from a home office.
+
+40 hours per week. Day shift. Send resume to: Christian.Hall@itron.com. Job Code: 2000432
+Itron is an Equal Opportunity, Affirmative Action Employer. Qualified applicants are considered without regard to race, color, religion, sex, age, national origin, citizenship, sexual orientation, marital status, pregnancy, medical condition, veteran status, disability, genetic information, gender identity or other characteristics protected by law. If you require an accommodation in order to apply to this position, please contact your local recruiting representative at 1-800-635-5461 or email Accessibility@itron.com.
+
+Itron enables utilities and cities to safely, securely and reliably deliver critical infrastructure services to communities in more than 100 countries. Our portfolio of smart networks, software, services, meters and sensors helps our customers better manage electricity, gas and water resources for the people they serve. By working with our customers to ensure their success, we help improve the quality of life, ensure the safety and promote the well-being of millions of people around the globe. Itron is dedicated to creating a more resourceful world.

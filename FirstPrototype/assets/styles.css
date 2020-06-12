@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Roboto;
+    src: url(./fonts/Roboto-Regular.ttf); 
+ }
+
+ @font-face {
+    font-family: Roboto-light;
+    src: url(./fonts/Roboto-light.ttf); 
+ }
+
+ @font-face { 
+    font-family: Sen-Bold;
+    src: url(./fonts/Sen-Bold.ttf); 
+ }
+
+
+
+ @font-face { 
+    font-family: Sen;
+    src: url(./fonts/Sen-Regular.ttf); 
+ }
+
+
+ body {
+    /* background-color: #232530; */
+    font-family: Sen;
+ }
+
+ h2 {
+    font-size: 1em;
+ }
+ 
+ .wrapper {
+     display: flex;
+     flex-direction: row;
+ }
+
+
+.job_selector {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+.job_resumee { 
+    min-width: 600px;
+    margin-left: 5em;
+    display: flex;
+    flex-direction: column;
+}
+
+.result {
+   height: 40px;
+   width: 40px;
+   border-radius: 50%;
+}
